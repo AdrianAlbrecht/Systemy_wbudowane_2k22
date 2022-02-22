@@ -1,0 +1,14 @@
+Lab 01
+
+| - or
+^ - xor
+& - and
+>> - przesunięcie bitowe w prawo
+<< - presunięcie bitowe w lewo
+
+Temat prezentacji: Mikrokontrolery- co to?
+
+Zadania w C:
+- dec to bin
+- k-ty bit liczby n
+- przesunięcie bitowe o n w lewo/ w prawo (??? - nie pamiętam)
