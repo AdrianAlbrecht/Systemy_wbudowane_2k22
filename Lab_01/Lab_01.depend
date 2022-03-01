@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1645522981 source:c:\users\adria\desktop\programming\sys_wbud\lab_01\main.c
+1646122126 source:c:\users\adria\desktop\programming\sys_wbud\lab_01\main.c
 	<stdio.h>
 	<stdlib.h>
+	<stdbool.h>
 

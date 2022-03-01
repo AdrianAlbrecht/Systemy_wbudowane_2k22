@@ -12,3 +12,12 @@ Zadania w C:
 - dec to bin
 - k-ty bit liczby n
 - przesunięcie bitowe o n w lewo/ w prawo (??? - nie pamiętam)
+
+Lab 02
+
+Zadanie w C:
+- PRNG (Pseudo Random Number generator) 1110011 - x^6+x^5+x^4+x+1
+
+seed- potrzebny do startu generatora
+
+wpisanie jedynki na najstarszy bit to operacja OR z liczbą bitową 1000... z naszą liczbą
