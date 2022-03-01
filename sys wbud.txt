@@ -21,3 +21,5 @@ Zadanie w C:
 seed- potrzebny do startu generatora
 
 wpisanie jedynki na najstarszy bit to operacja OR z liczbą bitową 1000... z naszą liczbą
+
+Lab 03
